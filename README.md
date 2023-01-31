@@ -19,7 +19,6 @@
 
 Os principais campos utilizados na modelagem foram: `Codigo` e `matrícula`.
 <br/>
-E os principais tipos foram: `FK`, `PK`, `int` e `varchar`.
 
 ## Relação entre as entidades:
 
